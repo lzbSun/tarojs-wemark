@@ -1,7 +1,6 @@
 # Taro 微信小程序 markdown 渲染组件
 
-##感谢 
-
+## 感谢
 GitHub地址：https://github.com/TooBug/wemark 提供原始方案；
 
 最近在做一个单词阅读的小程序，需要 `markdown` 渲染数据，目前有很多方案无法使用，于是修改了原作者的代码。
@@ -24,4 +23,4 @@ import Wemark from '@/component/wemark/Wemark.vue'
 
 ## Buy me a coffee
 
-![](/IMG_2237.JPG)
+![](/con.jpg) 
